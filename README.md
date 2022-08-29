@@ -1,4 +1,4 @@
-Water Me - Starter Code
+Water Me - 
 
 
 
@@ -9,6 +9,8 @@ Water Me - Starter Code
 
 
 
-https://user-images.githubusercontent.com/83489094/187155241-40d1ebe6-d7f3-44ff-99c6-b642ca6919ff.mp4
+![2022-08-30](https://user-images.githubusercontent.com/52076713/187276786-f1d7d5b9-11a6-4450-867a-e61515a286d9.png)
 
-<img width="960" alt="happy" src="https://user-images.githubusercontent.com/83489094/187155457-337caed2-35d7-4acf-977e-aa230091cd0c.png">
+
+
+![2022-08-30 (9)](https://user-images.githubusercontent.com/52076713/187276932-73e88656-0148-4696-b531-076f937d9a26.png)
